@@ -13,3 +13,5 @@ Work Experience :
 <a href="https://github.com/Gromitmugs/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gromitmugs&layout=compact" />
 </a>
+
+![Gromitmugs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gromitmugs&show_icons=true&rank_icon=github)
