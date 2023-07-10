@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m @Gromitmugs ###
 
+A Robotics AI engineer that does software engineering for fun.
+
 Checkout my Unity 3D Pokedex!
 https://gromitmugs3dpokedex.web.app/
 
