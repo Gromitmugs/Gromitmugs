@@ -12,6 +12,7 @@ Also, visit my Unity 3D Pokedex! (most compatible with browser in Windows OS)
 
 --------
 
+
 Work Experience:
 * **Software Engineer Intern at API PLUS Tech Co., ltd.** - Backend Development [Bangkok, Present]
 * **Data Analyst & Cloud Developer Intern at NIPA Technology Co., Ltd.** [Bangkok, June 2022]
@@ -26,3 +27,7 @@ Chulalongkorn University** [Graduated at May 2023]
 </a>
 
 ![Gromitmugs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gromitmugs&show_icons=true&rank_icon=github)
+
+--------
+
+<img src="https://github.com/Gromitmugs/Gromitmugs/assets/86527305/1a50ef9f-359d-40a2-b688-95295263aefe" width="400">
