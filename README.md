@@ -18,7 +18,7 @@
 
 **Education:**
 * Bachelor of Engineering Program in Robotics and Artificial Intelligence Engineering (International Program),
-Chulalongkorn University [Bangkok, Graduated at May 2023]
+Chulalongkorn University [Bangkok, Graduated May 2023]
 --------
 
 <a href="https://github.com/Gromitmugs/github-readme-stats">
