@@ -26,6 +26,3 @@ Chulalongkorn University [Bangkok, Graduated May 2023]
 </a>
 
 ![Gromitmugs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gromitmugs&show_icons=true&rank_icon=github)
---------
-
-<img src="https://github.com/Gromitmugs/Gromitmugs/assets/86527305/1a50ef9f-359d-40a2-b688-95295263aefe" width="400">
