@@ -13,7 +13,7 @@
 --------
 
 **Work Experience:**
-* Software Engineer Intern at API PLUS Tech Co., ltd. - Backend Development [Bangkok, Present]
+* Software Engineer at API PLUS Tech Co., ltd. - Backend Development [Bangkok, Present]
 * Data Analyst & Cloud Developer Intern at NIPA Technology Co., Ltd. [Bangkok, June 2022]
 
 **Education:**
