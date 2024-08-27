@@ -20,7 +20,7 @@
 * Bachelor of Engineering Program in Robotics and Artificial Intelligence Engineering (International Program),
 Chulalongkorn University [Bangkok, Graduated May 2023]
 
-**Publications:**
+**Publication:**
 - [Piyapunsutti, S.; Guzman, E.L.D.; Chaichaowarat, R. Navigating Mobile Manipulator Robot for Restaurant Application 
 Using Open-Source Software. In Proceedings of the 2023 IEEE International Conference on Robotics and Biomimetics (ROBIO), 
 Koh Samui, Thailand, 4–9 December 2023.](https://ieeexplore.ieee.org/document/10354831)
