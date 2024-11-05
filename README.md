@@ -5,7 +5,7 @@
 - My name is **Sattra Piyapunsutti**.
 
 **Education:**
-* School of Integrated Design Engineering (International Graduate Program), Keio University [Yokohama, Jaoan, Present]  
+* School of Integrated Design Engineering (International Graduate Program), Keio University [Yokohama, Japan, Present]  
 * Bachelor of Engineering Program in Robotics and Artificial Intelligence Engineering (International Program),
 Chulalongkorn University [Bangkok, Thailand, Graduated May 2023]
 
