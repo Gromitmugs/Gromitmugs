@@ -3,7 +3,16 @@
 --------
 
 - My name is **Sattra Piyapunsutti**.
-- A Robotics AI engineer that does software engineering for fun (perhaps).
+
+**Education:**
+* School of Integrated Design Engineering (International Graduate Program), Keio University [Yokohama, Jaoan, Present]  
+* Bachelor of Engineering Program in Robotics and Artificial Intelligence Engineering (International Program),
+Chulalongkorn University [Bangkok, Thailand, Graduated May 2023]
+
+**Work Experience:**
+* Software Engineer at API PLUS Tech Co., ltd. - Backend Development [Bangkok, Sep 2022 - Sep 2024]
+* Data Analyst & Cloud Developer Intern at NIPA Technology Co., Ltd. [Bangkok, June 2022]
+
 
 **Checkout my Robotics Senior Project (ROS)**
 - https://youtu.be/YG-K0zhOZM4
@@ -12,13 +21,6 @@
 - https://gromitmugs3dpokedex.web.app/
 --------
 
-**Work Experience:**
-* Software Engineer at API PLUS Tech Co., ltd. - Backend Development [Bangkok, Present]
-* Data Analyst & Cloud Developer Intern at NIPA Technology Co., Ltd. [Bangkok, June 2022]
-
-**Education:**
-* Bachelor of Engineering Program in Robotics and Artificial Intelligence Engineering (International Program),
-Chulalongkorn University [Bangkok, Graduated May 2023]
 
 **Publication:**
 - [Piyapunsutti, S.; Guzman, E.L.D.; Chaichaowarat, R. Navigating Mobile Manipulator Robot for Restaurant Application 
