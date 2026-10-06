@@ -6,7 +6,7 @@
 
 **Education:**
 * Doctoral Program in System Design Engineering, Graduate School of Science and Technology (International Graduate Program), Keio University [Yokohama, Japan, Present]  
-* Master of Engineering, Graduate School of Science and Technology (International Graduate Program), Keio University [Yokohama, Japan, Graduated Sep 2026]  
+* Master of Science in Engineering, Graduate School of Science and Technology (International Graduate Program), Keio University [Yokohama, Japan, Graduated Sep 2026]  
 * Bachelor of Engineering Program in Robotics and Artificial Intelligence Engineering (International Program),
 Chulalongkorn University [Bangkok, Thailand, Graduated May 2023]
 
